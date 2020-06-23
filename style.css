@@ -55,6 +55,7 @@ h1{
 }
 
 
+
 @media (max-width: 928px){
     .quarto{
         width: 50%;
@@ -417,6 +418,12 @@ text-decoration: none;
     margin-top: 2em;
 }
 
+#Recensioni h3:hover{
+    color: #f58d98;
+    
+}
+
+
 /* ------ Newsletter------  */
 #Newsletter{
     text-align: center;
@@ -452,7 +459,7 @@ footer li{
 
 /* Footer social */
 .ft-social {
-  padding: 0 1.875rem 1.25rem;
+  padding: 0 1.875em 1.25em;
 }
 
 .ft-social a:hover {
